@@ -20,7 +20,11 @@ As soon as we get a space we look up the corresponding English language characte
 Remember keeping track of the space is the most important part of this decryption process. As soon as we get 2 consecutive spaces we will add another space to our variable containing the decoded string.
 The last space at the end of the string will help us identify the last sequence of morse code characters (since a space acts as a check for extracting characters and start decoding them).
 
+Morse code is a simple, speedy and low cost means of communication composed of a series of dots, dashes and space intervals. Each tone element (either a dot, dash or space interval) is transmitted by sending a signal for a defined length of time. This poses a challenge as the automatic recognition of Morse code is dependent upon maintaining a stable typing rate. In this paper, a suitable adaptive automatic recognition method, combining the least-mean-square (LMS) algorithm with a neural network, was applied to this problem. The method presented in this paper is divided into five modules: space recognition, tone recognition, learning process, adaptive processing and character recognition. Statistical analyses demonstrated that the proposed method elicited a better recognition rate in comparison with other methods in the literature.
+
+
 International Morse Code
+
 Letters
 A	· –
 B	– · · ·
