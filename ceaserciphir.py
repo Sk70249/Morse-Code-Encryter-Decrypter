@@ -1,5 +1,5 @@
 def encrypt(text,s):
-result = ""
+   result = ""
    # transverse the plain text
    for i in range(len(text)):
       char = text[i]
