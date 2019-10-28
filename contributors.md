@@ -1,3 +1,4 @@
 Contributors
-- [Samkyak]
-- [Vishal]
+- [Samyak Kala]
+- [Rajat Panchotia]
+- [Vishal Yadav]
